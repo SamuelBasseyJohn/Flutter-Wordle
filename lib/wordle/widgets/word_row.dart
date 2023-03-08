@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 
 import '../../res/colors.dart';
 
+// This is each row for words
 class WordRow extends StatelessWidget {
   const WordRow({super.key, required this.color, required this.children});
 
